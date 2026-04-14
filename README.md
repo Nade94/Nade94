@@ -15,5 +15,5 @@ I'm currently learning data science, working through *Practical Statistics for D
 ---
 
 ## 📂 Projects
-- 🏟️ [International Football SQL Analysis](#) — SQL analysis of 49K+ international match records
+- 🏟️ [International Football SQL Analysis](https://github.com/Nade94/sql-football-analysis) — SQL analysis of 49K+ international match records
 - 📊 Regression Notebooks — predicting housing prices from scratch using numpy
