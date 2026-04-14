@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Nade 👋
 
-<!--
-**Nade94/Nade94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning data science, working through *Practical Statistics for Data Scientists* and building my skills one project at a time.
 
-Here are some ideas to get you started:
+🌱 Currently learning: Classification methods and SQL  
+📫 Open to entry-level data science internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- SQL (joins, aggregations, subqueries, window functions)
+- Statistics (regression, hypothesis testing, A/B testing)
+
+---
+
+## 📂 Projects
+- 🏟️ [International Football SQL Analysis](#) — SQL analysis of 49K+ international match records
+- 📊 Regression Notebooks — predicting housing prices from scratch using numpy
