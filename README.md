@@ -17,4 +17,3 @@ Open to entry-level data science internship opportunities
 ## Projects
 - [Clinical Veterinary Intelligence](https://github.com/Nade94/data-analytics-portfolio-projects/tree/main/veterinary%20-%20project) -  data analytics project combining veterinary domain expertise with Python
 - [International Football SQL Analysis](https://github.com/Nade94/sql-football-analysis) — SQL analysis of 49K+ international match records
-- Regression Notebooks — predicting housing prices from scratch using numpy
