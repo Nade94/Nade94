@@ -2,18 +2,19 @@
 
 I'm currently learning data science, working through *Practical Statistics for Data Scientists* and building my skills one project at a time.
 
-🌱 Currently learning: Classification methods and SQL  
-📫 Open to entry-level data science internship opportunities
+Currently learning: Classification methods and SQL  
+Open to entry-level data science internship opportunities
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Python (pandas, numpy, matplotlib, scikit-learn)
 - SQL (joins, aggregations, subqueries, window functions)
 - Statistics (regression, hypothesis testing, A/B testing)
 
 ---
 
-## 📂 Projects
-- 🏟️ [International Football SQL Analysis](https://github.com/Nade94/sql-football-analysis) — SQL analysis of 49K+ international match records
-- 📊 Regression Notebooks — predicting housing prices from scratch using numpy
+## Projects
+- [Clinical Veterinary Intelligence](https://github.com/Nade94/data-analytics-portfolio-projects/tree/main/veterinary%20-%20project) -  data analytics project combining veterinary domain expertise with Python
+- [International Football SQL Analysis](https://github.com/Nade94/sql-football-analysis) — SQL analysis of 49K+ international match records
+- Regression Notebooks — predicting housing prices from scratch using numpy
